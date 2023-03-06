@@ -29,4 +29,4 @@ git push
 git pull 
 git fatch
 
-
+agora fazer o pull de volta pra máquina
