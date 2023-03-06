@@ -28,3 +28,5 @@ git push
 
 git pull 
 git fatch
+
+agora fazer o pull
