@@ -23,10 +23,12 @@ git clone
 cd nome do repositorio 
 git status 
 git add . 
-git commit -m ""
+git commit -m "comentário aqui"
 git push 
 
 git pull 
 git fatch
 
 agora fazer o pull de volta pra máquina
+
+adding something new here 20:46
