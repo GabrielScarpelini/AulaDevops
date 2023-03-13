@@ -34,3 +34,5 @@ agora fazer o pull de volta pra máquina
 adding something new here 20:46
 
 returning something here 20:48
+
+no way bro it's updated with vscode open
