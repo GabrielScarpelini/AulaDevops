@@ -33,4 +33,4 @@ agora fazer o pull de volta pra máquina
 
 adding something new here 20:46
 
-returnig something here 20:48
+returning something here 20:48
