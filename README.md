@@ -9,7 +9,7 @@ token de acesso
 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
 
 
-cd = change dir por isso cd pé importante
+cd = change dir por isso cd é importante
 
 ls -lrt
 
@@ -19,12 +19,12 @@ ls -lrt = assim ordena eles
 lá ele
 
 
-git clone 
-cd nome do repositorio 
-git status 
-git add . 
-git commit -m "comentário aqui"
-git push 
+git clone : pra pegar o repositório 
+cd nome do repositorio: pra entrar nele pelo prompt
+git status : mostra o status
+git add . : coloca a alteração feita em vigor
+git commit -m "comentário aqui" dando nome ao Commit 
+git push : e aqui jogando pra dentro do git 
 
 git pull 
 git fatch
