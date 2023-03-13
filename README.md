@@ -31,6 +31,16 @@ git fatch
 git branch pra ver em qual branch que está 
 
 
+pra sair da branch que estamos
+
+pra criar um branch nova pelo cmd 
+git branch "nome" 
+
+git checkout "nome" aqui vc vai fazer a alteração da branch
+
+git diff e o nome do arquivo, vc vai ver o que mudou
+
+
 agora fazer o pull de volta pra máquina
 
 adding something new here 20:46
