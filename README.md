@@ -49,3 +49,8 @@ adding something new here 20:46
 returning something here 20:48
 
 no way bro it's updated with vscode open
+
+rm remove
+
+mkdir docs 
+mkdir src 
