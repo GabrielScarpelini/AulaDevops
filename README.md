@@ -32,7 +32,7 @@ git branch pra ver em qual branch que está
 
 
 pra sair da branch que estamos
-git checkout "nome" aqui vc vai fazer a alteração da branch
+git checkout "nome" aqui vc vai fazer a alteração da branch para a qual tu foi
 
 pra criar um branch nova pelo cmd 
 git branch "nome" 
