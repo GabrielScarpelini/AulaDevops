@@ -32,11 +32,13 @@ git branch pra ver em qual branch que está
 
 
 pra sair da branch que estamos
+git checkout "nome" aqui vc vai fazer a alteração da branch
 
 pra criar um branch nova pelo cmd 
 git branch "nome" 
 
-git checkout "nome" aqui vc vai fazer a alteração da branch
+git merge "nome da branch que quer trazer" lembre que aqui vc tem que estar na brach que vc quer colocar o que vai trazer
+
 
 git diff e o nome do arquivo, vc vai ver o que mudou
 
