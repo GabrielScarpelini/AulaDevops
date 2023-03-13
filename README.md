@@ -28,6 +28,8 @@ git push : e aqui jogando pra dentro do git
 
 git pull 
 git fatch
+git branch pra ver em qual branch que está 
+
 
 agora fazer o pull de volta pra máquina
 
