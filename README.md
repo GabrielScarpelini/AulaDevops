@@ -39,7 +39,6 @@ git branch "nome"
 
 git merge "nome da branch que quer trazer" lembre que aqui vc tem que estar na brach que vc quer colocar o que vai trazer
 
-
 git diff e o nome do arquivo, vc vai ver o que mudou
 
 
