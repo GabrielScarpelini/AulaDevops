@@ -49,4 +49,6 @@ adding something new here 20:46
 
 returning something here 20:48
 
-no way bro it's updated with vscode open
+no way bro it's updated with vscode open 
+
+agora vou fazer o merge pra main
